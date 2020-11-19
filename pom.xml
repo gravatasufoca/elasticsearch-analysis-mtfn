@@ -12,8 +12,8 @@
     <description>Custom Phonetic Analysis plugin for pt-BR using MTFN algorithm</description>
 
     <properties>
-        <elasticsearch.version>6.2.1</elasticsearch.version>
-        <lucene.version>7.2.1</lucene.version>
+        <elasticsearch.version>7.8.0</elasticsearch.version>
+        <lucene.version>8.5.1</lucene.version>
         <commonscodec.version>1.10</commonscodec.version>
     </properties>
 
